@@ -1,0 +1,177 @@
+      body {
+          font: 16px/28px arial, sans-serif;
+          background-color: white;
+      }
+      
+      .container {
+          width: 100%;
+          background-color: #3A526A;
+      }
+      
+      .header {
+          margin: auto;
+          width: 80%;
+          height: 50px;
+      }
+      
+      .header .call {
+          color: white;
+          font-weight: bold;
+          margin-left: 50px;
+          font-size: 12px;
+      }
+      
+      .header .email {
+          color: white;
+          font-weight: bold;
+          font-size: 12px;
+      }
+      
+      .header p,
+      ul,
+      li,
+      a,
+      img {
+          display: inline-block;
+      }
+      
+      .header ul {
+          margin-left: 800px;
+      }
+      
+      .logo {
+          background-color: white;
+          width: 100%;
+      }
+      
+      .logo img {
+          width: 70px;
+          height: 17px;
+      }
+      
+      .navigasi {
+          width: 80.5%;
+          margin: auto;
+      }
+      
+      .logo .navigasi ul,
+      li {
+          margin-right: 10px;
+      }
+      
+      .logo .navigasi a {
+          text-decoration: none;
+          color: #3A5948;
+          padding: 5px;
+          font-weight: bold;
+          margin-left: 10px;
+      }
+      
+      .logo a:hover {
+          background-color: white;
+          color: green;
+      }
+      
+      .gambar {
+          height: 800px;
+          background-image: url(Images/Depan.jpg);
+          background-size: cover;
+      }
+      
+      .segment1 {
+          width: 100%;
+      }
+      
+      .service {
+          margin: auto;
+          width: 1509px;
+          text-align: center;
+      }
+      
+      .service div {
+          float: left;
+          width: 300px;
+      }
+      
+      .service img {
+          width: 100px;
+      }
+      
+      .clear {
+          clear: left;
+      }
+      
+      .segment2 {
+          width: 100%;
+      }
+      
+      .penawaran_terbaik {
+          margin: auto;
+          width: 1509px;
+          text-align: center;
+      }
+      
+      .penawaran_terbaik div {
+          float: left;
+          margin-right: 30px;
+          width: 718.5px;
+      }
+      
+      .segment3 {
+          width: 100%;
+          background-color: #2E363A;
+      }
+      
+      .isi {
+          width: 1200px;
+          margin: auto;
+      }
+      
+      .isi div {
+          width: 600px;
+          float: left;
+      }
+      
+      .isi a {
+          color: white;
+          text-decoration: none;
+          font-weight: bold;
+          padding: 5px;
+      }
+      
+      .isi a:hover {
+          background-color: #2E363A;
+          color: green;
+      }
+      
+      .isi label {
+          color: white;
+          font-weight: bold;
+          margin-right: 10px;
+      }
+      
+      .isi input {
+          margin-bottom: 10px;
+          margin-right: 40px;
+          width: 250px;
+          height: 35px;
+      }
+      
+      .segment4 {
+          width: 100%;
+          background-color: #2E363A;
+      }
+      
+      .footer {
+          border-top: 1px solid white;
+          margin: auto;
+          width: 1200px;
+          padding: 7px;
+      }
+      
+      .footer .copy {
+          text-align: center;
+          color: white;
+          font-size: 14px;
+          font-weight: bold;
+      }
